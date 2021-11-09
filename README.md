@@ -22,7 +22,7 @@ src="RAMANAN1.jpg" alt="GIF" width="220" height="190"/>
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
 <p align="center">
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Ramanan/remani-molus-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Ramanan/remani Mwol-Qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
     
@@ -30,7 +30,7 @@ src="RAMANAN1.jpg" alt="GIF" width="220" height="190"/>
 </p>
 </div>
 <div align="center">
-<a href="https://remani-molus.yolasite.com/">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐕𝐈𝐒𝐈𝐓 𝐎𝐔𝐑 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
+<a href="https://remani Mwol.yolasite.com/">   𒊹︎︎︎𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐕𝐈𝐒𝐈𝐓 𝐎𝐔𝐑 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</a>
     <br>
 </p>
 <div align="center">
